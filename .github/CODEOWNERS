@@ -1,0 +1,12 @@
+# Every change needs a code owner's review (enforced when "Require review from Code Owners" is on).
+* @arturvavs
+
+# Extra care: these files control how the app is built, checked and released, so only the owner
+# can approve them (the last matching line wins).
+/.github/   @arturvavs
+/installer/ @arturvavs
+/scripts/   @arturvavs
+/build.bat  @arturvavs
+/Makefile   @arturvavs
+/build-linux.sh @arturvavs
+/linux/     @arturvavs

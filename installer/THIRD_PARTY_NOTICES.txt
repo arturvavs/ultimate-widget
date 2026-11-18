@@ -1,0 +1,20 @@
+Ultimate Widget bundles the following third-party software.
+
+HeadsetControl 4.3.0 (headsetcontrol.exe)
+  Copyright (C) the HeadsetControl contributors
+  https://github.com/Sapd/HeadsetControl
+  License: GNU General Public License v3.0 (same text as LICENSE.txt)
+  Corresponding source code:
+    https://github.com/Sapd/HeadsetControl/releases/tag/4.3.0
+    (headsetcontrol-4.3.0.tar.gz is also attached to every Wireless Battery release)
+
+  The binary is the unmodified official release asset
+  headsetcontrol-windows-x86_64.exe,
+  SHA-256 e371da043710ddb8fc70af77f2ccad1cd03f8c6f49ba423e08764ad7a94a3c40.
+
+Ultimate Widget is based on Wireless Battery (Wireless-Device-Battery-Monitor)
+  Copyright (C) krisgfx9 and the Wireless Battery contributors
+  https://github.com/krisgfx9/Wireless-Device-Battery-Monitor
+  License: GNU General Public License v3.0 (see LICENSE.txt)
+  Changes in this fork: media controls widget, "left side" placement, retry of unanswered Logitech HID++
+  requests, steadier dimming of icons, and removal of the network support form and donation links.
